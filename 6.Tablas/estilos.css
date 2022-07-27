@@ -1,0 +1,16 @@
+table{
+    border: 2px solid #3B4B59;
+    border-collapse: collapse;
+}
+thead tr, th {
+    background-color:#BACDD9;
+    border: 1px solid #3B4B59;
+}
+tbody td{
+    background-color: #DCEAF2;
+    border: 1px solid #3B4B59;
+}
+tfoot{
+    
+    background-color: #DCEAF2;
+}
